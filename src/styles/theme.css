@@ -1,0 +1,19 @@
+.theme-light {
+    background: #fff;
+    text-align: -webkit-center;
+}
+
+.theme-dark{
+    background: #36394c;
+    color: #fff;
+    text-align: -webkit-center;
+}
+
+.header-light{
+    background: #e8e9ed;
+}
+
+.header-dark{
+    background: #5c5e6b 
+}
+
